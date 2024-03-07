@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: schoolworkcooledition
+    name: schoolworkbackup
     env: docker
     plan: free
